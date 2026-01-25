@@ -40,3 +40,6 @@ pip install streamlit
 
 ## Instalar o componente streamlit-aggrid
 pip install streamlit-aggrid
+
+## Instalar o Pandas, o streamlit-aggrid requer o dataframe
+pip install pandas
