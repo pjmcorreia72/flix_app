@@ -1,17 +1,17 @@
 # Flix_app
 
-# Descrição
+## Descrição
 Este projeto tem como objetivo explorar a framework **Streamlit**.
 
-# Preparação do ambiente de trabalho
-# Criar o ambiente virtual
-# Abrir o terminal no VS Code e executar:
+## Preparação do ambiente de trabalho
+## Criar o ambiente virtual
+## Abrir o terminal no VS Code e executar:
 python -m venv venv
 
-# Ativação da venv
+## Ativação da venv
 .\venv\Scripts\activate
 
-# Instalar a streamlit
+## Instalar a streamlit
 pip install streamlit
 
 # GIT 
@@ -37,3 +37,6 @@ pip install streamlit
     git add .  # Novos ficheiros
     git commit -m "mensagem"  # Ficheiros alterados
     git push # Finaliza
+
+## Instalar o componente streamlit-aggrid
+pip install streamlit-aggrid
