@@ -11,6 +11,9 @@ python -m venv venv
 ## Ativação da venv
 .\venv\Scripts\activate
 
+## Desativar a venv
+deactivate
+
 ## Instalar a streamlit
 pip install streamlit
 
