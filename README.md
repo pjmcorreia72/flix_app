@@ -49,3 +49,6 @@ pip install pandas
 
 ### Instalar requests
 pip install requests
+
+### Correr a aplicação
+streamlit run app.py
