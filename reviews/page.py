@@ -26,8 +26,3 @@ def show_reviews():
         reload_data=True,
         key='reviews_grid',
         )
-
-    st.title('Registar novo(a) Ator/Atriz')
-    name = st.text_input('Nome do(a) Ator/Atriz')
-    if st.button('Registar'):
-        st.success(f'Ator/Atriz "{name}" registado(a) com sucesso')
