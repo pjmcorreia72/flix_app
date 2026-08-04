@@ -3,7 +3,7 @@ import streamlit as st
 from st_aggrid import AgGrid
 
 
-actors = [
+movies = [
     {
         'id': 1,
         'name': 'Titanic'
